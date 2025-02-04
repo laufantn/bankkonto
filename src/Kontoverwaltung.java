@@ -26,6 +26,8 @@ abstract class Konto {
         }
     }
 
+    // Test
+
     public abstract void abheben(double betrag);
 
     public void kontoauszug() {
